@@ -1,2 +1,2 @@
 # Entregable2back
-Segundo entregable de back up en rama sprint2
+Segundo entregable de backend en rama sprint2
